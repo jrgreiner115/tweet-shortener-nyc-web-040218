@@ -32,7 +32,11 @@ def bulk_tweet_shortener(tweet_array)
    end
 end
 
-def selective_tweet_shortener
+def selective_tweet_shortener(tweet)
+  if tweet.split <= 140,
+    return tweet
+  else
+    
 end
 
 def shortened_tweet_truncator
