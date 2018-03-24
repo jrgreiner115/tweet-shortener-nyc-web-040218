@@ -14,7 +14,7 @@ def dictionary
 end
 
 def word_substituter(tweet)
-  split_tweet = tweet.split.co
+  split_tweet = tweet.split.collect do |words|
 end
 
 def bulk_tweet_shortener
