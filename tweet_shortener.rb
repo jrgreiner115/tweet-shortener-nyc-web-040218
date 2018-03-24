@@ -1,6 +1,11 @@
 # Write your code here.
 
-def dictionary(words_to_be_subbed, substitutes)
+def dictionary
+  dictionary = {
+    hello: "hi",
+    to
+    
+  }
 end
 
 def bulk_tweet_shortener
