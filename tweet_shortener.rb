@@ -24,7 +24,8 @@ def word_substituter(tweet)
   split_tweet.join(' ')
 end
 
-def bulk_tweet_shortener
+def bulk_tweet_shortener(tweets)
+  word_substituter
 end
 
 def selective_tweet_shortener
