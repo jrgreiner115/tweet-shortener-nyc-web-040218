@@ -19,4 +19,6 @@ end
 def bulk_tweet_shortener
 end
 
-def 
+def selective_tweet_shortener
+end
+
